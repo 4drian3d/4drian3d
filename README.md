@@ -1,8 +1,10 @@
 # 4drian3d
 
-##Hello visitor of my profile C:
 
-I'm 4drian3d, owner of a Minecraft server called [Peruviankkit Network](https://peruviankkit.tebex.io/). 
+* Owner of [Peruviankkit Network](https://peruviankkit.tebex.io/). 
+* Microsoft Office Speccialist (MOS) Word 2013
+* University student
+* soon
 I hope to have this updated eventually :D
 <!--
 **4drian3d/4drian3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
