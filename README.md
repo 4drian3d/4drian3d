@@ -4,7 +4,7 @@
 * Owner of [Peruviankkit Network](https://peruviankkit.tebex.io/). 
 * Microsoft Office Speccialist (MOS) Word 2013
 * University student
-* soon
+* [TitleAnnouncer](https://github.com/4drian3d/TitleAnnouncer) Developer
 I hope to have this updated eventually :D
 <!--
 **4drian3d/4drian3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
