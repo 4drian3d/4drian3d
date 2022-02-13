@@ -3,8 +3,7 @@
 
 * Owner of [Peruviankkit Network](https://peruviankkit.tebex.io/). 
 * Microsoft Office Speccialist (MOS) Word 2013
-* University student
-* [TitleAnnouncer](https://github.com/4drian3d/TitleAnnouncer) Developer
+* [ChatRegulator](https://github.com/4drian3d/ChatRegulator), [AuthmeVelocity](https://github.com/4drian3d/AuthmeVelocity), [KickRedirect](https://github.com/4drian3d/KickRedirect), [LogFilter](https://github.com/4drian3d/LogFilter) Developer
 
 I hope to have this updated eventually :D
 <!--
@@ -20,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+aea, velocity goes brooommmmmm
 -->
