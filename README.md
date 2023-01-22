@@ -1,7 +1,7 @@
 # 4drian3d
 
 
-* ☕ Java Developer
+* ☕ Java and Kotlin Developer
 * 📗 Knowledge of Velocity-API, Paper-API, Sponge-API, Krypton-API, Bungeecord/Waterfall-API and more
 
 
