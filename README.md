@@ -2,7 +2,7 @@
 
 
 * ☕ Java and Kotlin Developer
-* 📗 Knowledge of Velocity-API, Paper-API, Sponge-API, Krypton-API, Bungeecord/Waterfall-API and more
+* 📗 Knowledge of Velocity-API, Paper-API, Sponge-API, Krypton-API and more
 
 I'm mostly known for making a bunch of Velocity plugins, a few for Paper and others cross-platform
 
